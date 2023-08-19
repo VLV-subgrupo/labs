@@ -7,8 +7,8 @@
 
 ## Modelo Conceitual ER
 
-<img src="images/ER-lab02.png" width="400px" height="auto">
+<img src="images/ER-lab02.png" width="1000px" height="auto">
 
 # Modelo Conceitual UML
 
-<img src="images/UML-lab02.png" width="400px" height="auto">
+<img src="images/UML-lab02.png" width="1000px" height="auto">
