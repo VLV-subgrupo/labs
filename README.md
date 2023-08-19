@@ -7,8 +7,8 @@
 
 ## Modelo Conceitual ER
 
-<img src="images/ER_Diagram_MMORPG.png" width="400px" height="auto">
+<img src="images/ER-lab02.png" width="400px" height="auto">
 
 # Modelo Conceitual UML
 
-<img src="images/UML_Diagram_for_a_Online_Restaurant.png" width="400px" height="auto">
+<img src="images/UML-lab02.png" width="400px" height="auto">
