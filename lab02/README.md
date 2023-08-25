@@ -1,9 +1,9 @@
 # Equipe LAMEV
 
-# Subgrupo VLV
+# Subgrupo B
 * Luiz Guilherme Sousa Nascimento - 230667
-* Victor Wu - 231467
 * Vítor Paziam Magalhães - 238316
+* Victor Wu - 231467
 
 ## Modelo Conceitual ER
 
