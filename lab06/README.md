@@ -1,3 +1,12 @@
+# Equipe LAMEV
+
+# Subgrupo VLV
+* Luiz Guilherme Sousa Nascimento - 230667
+* Victor Wu - 231467
+* Vitor Paziam Magalhães - 238316
+
+# Tarefa de Cypher sobre Patologias, Medicamentos e Efeitos Colaterais
+
 ## Exercício
 
 Faça a projeção em relação a Patologia, ou seja, conecte patologias que são tratadas pela mesma droga.
@@ -16,14 +25,6 @@ LIMIT 20
 ~~~
 
 # Trabalhando com Efeitos Colaterais
-
-Considere o seguinte arquivo que indica um conjunto de pessoas (identificadas por código) e as drogas que elas usam:
-
-[https://raw.githubusercontent.com/santanche/lab2learn/master/data/faers-2017/drug-use.csv]
-
-Considere este outro arquivo que indica as mesmas pessoas e efeitos colaterais que elas experimentaram:
-
-[https://raw.githubusercontent.com/santanche/lab2learn/master/data/faers-2017/sideeffect.csv]
 
 ## Exercício
 
